@@ -1,0 +1,24 @@
+{
+  "name": "your-portfolio-site-356-",
+  "version": "1.0.0",
+  "description": "- Can deploy an application to Heroku",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qweenwasabi/Your-Portfolio-Site-356-.git"
+  },
+  "author": "Jacky B",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qweenwasabi/Your-Portfolio-Site-356-/issues"
+  },
+  "homepage": "https://github.com/qweenwasabi/Your-Portfolio-Site-356-#readme",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "express": "^4.15.4"
+  }
+}
