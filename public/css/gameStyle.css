@@ -40,8 +40,8 @@ the grid are used as class names for the table cell (<td>) elements.*/
 }
 
 .game {
-  overflow: hidden;
-  max-width: 600px;
-  max-height: 450px;
+  overflow: visible;
+  max-width: 900px;
+  max-height: 650px;
   position: relative;
 }
