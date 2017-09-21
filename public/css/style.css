@@ -20,8 +20,18 @@ body {
     padding: 14px 16px;
     text-decoration: none;
     font-size: 30px;
+    font-family: 'alphacloudsregular', Arial, sans-serif;
+    font-weight:normal;
+    font-style:normal;
 }
+@font-face {
+    font-family: 'alphacloudsregular';
+    src: url('fonts/alphaclouds-webfont.woff2') format('woff2'),
+         url('fonts/alphaclouds-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
 
+}
 /* Main content */
 .main {
     margin-top: 30px; /* Add a top margin to avoid content overlay */
